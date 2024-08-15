@@ -1,6 +1,6 @@
 # Trading Projects Repository
 
-This repository contains all of my trading projects, divided into two sections: projects completed before the **AI in Trading Nanodegree** from Udacity, and those completed as part of the Nanodegree program.
+This repository contains all of my trading projects, divided into two sections: projects completed before the **AI in Trading Nanodegree** from Udacity (Interactive Broker API), and those completed as part of the Nanodegree program.
 
 ## Projects Completed with Interactive Broker API
 
