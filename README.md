@@ -11,12 +11,9 @@ These projects involve creating and testing trading strategies on the Interactiv
    - In this project, I developed trading strategies for stocks using the Interactive Brokers platform. The strategies focus on taking short and long positions derived from analyzing historical price data and price trends.
 
 2. **IB (Interactive Broker) Crypto Trading**
-   - This project involves creating and backtesting trading strategies for various cryptocurrencies. The strategies capitalize on the volatile nature of the crypto market by using shorting and longing techniques based on historical price movements and trend analysis.
+   - This project involves strategies that capitalize on the volatile nature of the crypto market by using shorting and longing techniques based on historical price movements and trend analysis.
 
 3. **IB (Interactive Broker) Forex Trading**
-   - The Forex trading project involves designing strategies for the currency markets. The strategies are based on shorting and longing positions driven by previous price data and trends, aiming to exploit fluctuations in currency prices.
-  
-3. **IB (Interactive Broker) Stock Gains Python Calculator**
    - The Forex trading project involves designing strategies for the currency markets. The strategies are based on shorting and longing positions driven by previous price data and trends, aiming to exploit fluctuations in currency prices.
 
 ## Projects Completed During the AI in Trading Nanodegree
