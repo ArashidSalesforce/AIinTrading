@@ -1,8 +1,26 @@
-# AI in Trading Projects
+# Trading Projects Repository
 
-This repository contains the projects I completed as part of the **AI in Trading Nanodegree** from Udacity. Each project focuses on a different aspect of quantitative trading, using machine learning and data analysis techniques to build, test, and evaluate trading strategies.
+This repository contains all of my trading projects, divided into two sections: projects completed before the **AI in Trading Nanodegree** from Udacity (Interactive Broker API), and those completed as part of the Nanodegree program.
 
-## Projects Overview
+## Projects Completed with Interactive Broker API
+
+### Interactive Broker Projects
+These projects involve creating and testing trading strategies on the Interactive Brokers platform. The strategies are based on price analysis, shorting, and longing based on previous price movements and trends.
+
+1. **IB (Interactive Broker) Stocks Trading**
+   - In this project, I developed trading strategies for stocks using the Interactive Brokers platform. The strategies focus on taking short and long positions derived from analyzing historical price data and price trends.
+
+2. **IB (Interactive Broker) Crypto Trading**
+   - This project involves strategies that capitalize on the volatile nature of the crypto market by using shorting and longing techniques based on historical price movements and trend analysis.
+
+3. **IB (Interactive Broker) Forex Trading**
+   - The Forex trading project involves designing strategies for the currency markets. The strategies are based on shorting and longing positions driven by previous price data and trends, aiming to exploit fluctuations in currency prices.
+
+## Projects Completed During the AI in Trading Nanodegree
+
+These projects were completed as part of the **AI in Trading Nanodegree** from Udacity. Each project focuses on a different aspect of quantitative trading, utilizing machine learning and data analysis techniques to build, test, and evaluate trading strategies.
+
+### AI in Trading Nanodegree Projects
 
 1. **Alpha Research and Factor Modeling**
    - This project involves researching and creating alpha factors, which are signals that can predict stock returns. The project covers the development of custom factors, their evaluation, and their integration into a portfolio.
