@@ -54,3 +54,9 @@ To view and explore the work I've done in each project, follow these steps:
 2. Open the file named `project_x_starter.ipynb`, where `x` corresponds to the specific project you're interested in.
 
 This will open the Jupyter notebook where the project work is documented, including the code, analysis, and results.
+
+### yFinance - Fetching Stocks
+
+The `yFinance` library is specifically utilized in the "yFinance - Fetching Stocks" file within this repository. This file demonstrates how to fetch historical stock data directly from Yahoo Finance. The `yFinance` library provides a simple interface to retrieve stock prices, financial information, and other relevant data that can be used in trading strategies and analysis.
+
+This file serves as a practical example of how to use the `yFinance` library to gather the data needed for stock analysis and strategy development.
